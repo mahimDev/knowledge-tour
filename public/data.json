@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co.com/bQT5KPf/Rectangle-2-5.png",
+    "title": "The Future of Web Development",
+    "author": "Jane Doe",
+    "author_img": "https://i.ibb.co.com/SydY2h0/Education.png",
+    "posted_date": "2024-10-20",
+    "reading_time": 5,
+    "hashtags": ["#WebDevelopment", "#FutureTech", "#Programming"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co.com/5WJnQzg/Rectangle-2.png",
+    "title": "How to Master Tailwind CSS",
+    "author": "John Smith",
+    "author_img": "https://i.ibb.co.com/SydY2h0/Education.png",
+    "posted_date": "2024-10-15",
+    "reading_time": 7,
+    "hashtags": ["#TailwindCSS", "#WebDesign", "#CSS"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co.com/rFq1jDt/Rectangle-2-2.png",
+    "title": "Best Practices for Responsive Design",
+    "author": "Emily Johnson",
+    "author_img": "https://i.ibb.co.com/SydY2h0/Education.png",
+    "posted_date": "2024-10-18",
+    "reading_time": 6,
+    "hashtags": ["#ResponsiveDesign", "#UIUX", "#WebDevelopment"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co.com/GPwQ8yJ/Rectangle-2-1.png",
+    "title": "Building Scalable Web Applications",
+    "author": "Michael Lee",
+    "author_img": "https://i.ibb.co.com/SydY2h0/Education.png",
+    "posted_date": "2024-10-10",
+    "reading_time": 8,
+    "hashtags": ["#ScalableApps", "#Backend", "#FullStack"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://i.ibb.co.com/1dTjBJw/Rectangle-2-3.png",
+    "title": "Understanding JavaScript Closures",
+    "author": "Sarah Davis",
+    "author_img": "https://i.ibb.co.com/SydY2h0/Education.png",
+    "posted_date": "2024-10-12",
+    "reading_time": 4,
+    "hashtags": ["#JavaScript", "#Closures", "#Programming"]
+  }
+]
